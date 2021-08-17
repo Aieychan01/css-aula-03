@@ -1,0 +1,12 @@
+body {
+    color: green;
+}
+
+h1 {
+    color: red;
+    text-transform: uppercase;
+}
+
+p {
+    text-transform: capitalize;
+}

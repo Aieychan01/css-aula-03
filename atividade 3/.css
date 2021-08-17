@@ -1,0 +1,15 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: lightblue;
+    background-image: url("download.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+    
+}
+
+h1 {
+    background-color: green;
+    color: white;
+}
